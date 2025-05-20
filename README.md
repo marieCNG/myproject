@@ -1,3 +1,1 @@
-this is read me file
-
-this is a new line
+This is the READ ME file of my crash test project to learn about git and github.
